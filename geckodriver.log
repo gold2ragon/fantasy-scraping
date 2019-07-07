@@ -1,0 +1,303 @@
+1562263526517	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/f7fjn3xx1kv0fbn_lhrxpb100000gn/T/rust_mozprofile.lmOmQ2CZ3Imf"
+1562263528460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562263528461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562263528461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562263530766	Marionette	INFO	Listening on port 64298
+1562263530861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1562263555950	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/f7fjn3xx1kv0fbn_lhrxpb100000gn/T/rust_mozprofile.sKWBS6IJBDwf"
+1562263556408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562263556408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562263556408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562263558304	Marionette	INFO	Listening on port 64863
+1562263558410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1562263599629	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/f7fjn3xx1kv0fbn_lhrxpb100000gn/T/rust_mozprofile.Cn1fqSqV9nq6"
+1562263602903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562263602904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562263602904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562263605450	Marionette	INFO	Listening on port 49630
+1562263605487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 749: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1562263637462	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/f7fjn3xx1kv0fbn_lhrxpb100000gn/T/rust_mozprofile.Nwlafc70gNhf"
+1562263640698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562263640699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562263640699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562263643388	Marionette	INFO	Listening on port 50808
+1562263643408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s0.2mdn.net/4516568/1531762741623/2B_StarsCampaign_728x90_REVISED/index.html, line 175: TypeError: studio.Enabler is undefined
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  receivedBroadcastMessage: handler for
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+console.error: BroadcastService: 
+  threw error:
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562259611862%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562259611862%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562259611862%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562259611862%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "null has no properties"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: https://s0.2mdn.net/4516568/1531762680463/1A_StarsCampaign_728x90_REVISED/index.html, line 174: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/4516568/1531762680463/1A_StarsCampaign_728x90_REVISED/index.html, line 174: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/4516568/1531762741623/2B_StarsCampaign_728x90_REVISED/index.html, line 175: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/4516568/1531762741623/2B_StarsCampaign_728x90_REVISED/index.html, line 175: TypeError: studio.Enabler is undefined
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "null has no properties"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: https://s0.2mdn.net/4516568/1531762680463/1A_StarsCampaign_728x90_REVISED/index.html, line 174: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/4516568/1531762680463/1A_StarsCampaign_728x90_REVISED/index.html, line 174: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/4516568/1531762680463/1A_StarsCampaign_728x90_REVISED/index.html, line 174: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/4516568/1531762680463/1A_StarsCampaign_728x90_REVISED/index.html, line 174: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/4516568/1531762741623/2B_StarsCampaign_728x90_REVISED/index.html, line 175: TypeError: studio.Enabler is undefined
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: https://fw.adsafeprotected.com/rjss/servedby.flashtalking.com/140383/21866090/imp/8/88341;2976344;201;js;Conversant;CrossDeviceStandardIABBannersCNVRAudiencesSPANA25HHI50k728x90/?ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.pro-football-reference.com%2Fplayers%2FD%2F&cachebuster=828629.5881770349, line 1049: TypeError: d is undefined
+JavaScript error: https://fw.adsafeprotected.com/rjss/servedby.flashtalking.com/140383/21866090/imp/8/88341;2976344;201;js;Conversant;CrossDeviceStandardIABBannersCNVRAudiencesSPANA25HHI50k728x90/?ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.pro-football-reference.com%2Fplayers%2FD%2F&cachebuster=828629.5881770349, line 1049: TypeError: d is undefined
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1562264287821	Marionette	INFO	Stopped listening on port 64298
+JavaScript error: https://cdn.doubleverify.com/dv-measurements273.js, line 64: TypeError: l.c.L(...) is undefined
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1562264295982	Marionette	INFO	Stopped listening on port 64863
+1562264307374	Marionette	INFO	Stopped listening on port 49630
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1562264309853	Marionette	INFO	Stopped listening on port 50808
+1562264329653	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/f7fjn3xx1kv0fbn_lhrxpb100000gn/T/rust_mozprofile.0vCd60W8H5yS"
+1562264332038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562264332038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562264332038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562264334718	Marionette	INFO	Listening on port 61017
+1562264334804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s0.2mdn.net/4516568/1531762680463/1A_StarsCampaign_728x90_REVISED/index.html, line 174: TypeError: studio.Enabler is undefined
+1562264668359	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/f7fjn3xx1kv0fbn_lhrxpb100000gn/T/rust_mozprofile.WgBnvy8qALYl"
+[Child 35949, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 35949, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 35949, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 35949, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 35949, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 35949, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1562264670156	Marionette	INFO	Stopped listening on port 61017
+1562264671020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562264671020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562264671020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562264673868	Marionette	INFO	Listening on port 64827
+1562264673958	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562259611862%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562264968294	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/f7fjn3xx1kv0fbn_lhrxpb100000gn/T/rust_mozprofile.K8Lt7Iq08pXj"
+1562264970502	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562264970503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562264970503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562264972805	Marionette	INFO	Listening on port 51162
+1562264972880	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562259611862%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1562265012872	Marionette	INFO	Stopped listening on port 64827
+1562265042360	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/f7fjn3xx1kv0fbn_lhrxpb100000gn/T/rust_mozprofile.ZokRJVOrX4uB"
+1562265044302	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562265044302	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562265044302	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562265046468	Marionette	INFO	Listening on port 52222
+1562265046562	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562259611862%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://s0.2mdn.net/4516568/1531762680463/1A_StarsCampaign_728x90_REVISED/index.html, line 174: TypeError: studio.Enabler is undefined
+1562265349330	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/f7fjn3xx1kv0fbn_lhrxpb100000gn/T/rust_mozprofile.sKuczbN1z35Q"
+1562265351092	Marionette	INFO	Stopped listening on port 52222
+1562265351979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562265351979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562265351979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562265354613	Marionette	INFO	Listening on port 54925
+1562265354764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1562265421143	Marionette	INFO	Stopped listening on port 54925
+1562265421207	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/f7fjn3xx1kv0fbn_lhrxpb100000gn/T/rust_mozprofile.xNBgXr3BFUmD"
+1562265422884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562265422885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562265422885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562265424912	Marionette	INFO	Listening on port 56154
+1562265424971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 749: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1562346318709	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/f7fjn3xx1kv0fbn_lhrxpb100000gn/T/rust_mozprofile.VLVXQsNXQlGJ"
+1562346322386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562346322386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562346322386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562346329097	Marionette	INFO	Listening on port 61138
+1562346329230	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562337046257%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1562346524825	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/f7fjn3xx1kv0fbn_lhrxpb100000gn/T/rust_mozprofile.56o7EH7A6jnb"
+1562346527581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562346527582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562346527582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562346530212	Marionette	INFO	Listening on port 64198
+1562346530229	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562337046257%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://googleads.g.doubleclick.net/dbm/ad?dbm_c=AKAmf-DnKVyDRJeLIUe7LkMOR7YvKfwEpWvEZJwbf7q3Vu5tXiyznX9KxOGbLd4uF3m5Wp5T7hwk14lxztmgTq6I6bVV0tObYg&dbm_d=AKAmf-CQi8-GBLHpqmfoNFWSz-VvwSajP-bXqnY8IVpKgpeKhu8kd22tHw68-1M-U2y9hhxjWuyBps3ORl7iIdTXoJcIXleqmvH18DRciiCYuiC6PlAHy6dh7dZqoKe3Fq4Efo_YdCO4_k76UywmJhWGmJ66cpkvP3LSSTgy8wisukxYpzsnUItq0_98bGpuDQR3IWgZmH07OFPNkQ0NaWxy01Mtna4AAGOyptc8JwHC98BXIkVNIa7fwcH2eqfNp4xplr61KMm68v-Svmd6L7OsR0eZeV5zrxf3-6rHbQ2fTeLZWUFoxOxZfqSSIbnY9sHQwaaSA7sp1pSmUE-nz26s4_NJfXF2MX6TcrjNNoBPvPTC39SdSfcAsuzyYU9eXCfjrEpdl1JGP1xLK3ChxGfYpXnwjJTRPA5fY6KUCBQsf4qoL_4qsV9giCy9D4jMhr9tbV5eQFH-YpUAwNzcrS8X7-JbmHmJZ6yvE0ryd3ezZTG6sjuB-6BoWVQbCoMcsnHV_kfNFax3-mdieFNu61G2XUuMJNZ1QrKiOhfZ9M_Khme9lgLInJUx5F0fVSL5xD_LJsAzn4-3uxM8n23GonfUgfKS55ejxt8aKtwzXOiAxkmrIy3sCbHtrlhVsFIZw6le6VEF8ljhqWeqO2bWoYGSHPYjbDLlHVn9-QtqTuF4MeJhB5TwJN1TLW-MB-QQOI3aaPGpiF2I8EpzM5Ef6jbV3Er-UWpBHSvbMwNhGschXALZW0-r2R0J-dV2dErnZI-xMF8ftoLt9ioSjmtnnNeLToWSrQwL1gG6AEaACNHwfJZ86MTdehUIm8X9t5Iz45-goeNu9Kkb4UhLO0hZvlAziDUTzAiNthvZpus-ltbdyKLtLNZ43wzr63Gm5ksnfGgU8T-VnEuTz_NZNq7lXholIHt3s0eY4_O2VvN6aEke6WP0AGm2krgpf-pJTQSKNBpBff70ZBBnVO7ZaLwqm5-tUoo13O8GwHro_2pXZGYCLq2EF9IZZokJBNQzStGybJbwkhiRtUCb_0UFrDuDsaf5xAqdVC4AxK_jqJSz7YGYc_AxcjaWbh9zvETwBsBmPJcADDwFfduQWFueyt9vZtadyH3q9kWetfHOA_UIq4ltA2Ug4YPigEukVI06A7NDfDlFCcfCLt_iFvkuGDv4O2nGH3Z-xOxed9EDTnovh0nyT_YdCZl-EUhZO_W_Yx_PGfG4OIA6xt7_I7XZBes_JyYfMW0jRsvrnCfchzUPNHaCqxy9LjzJ5QMCNPKl9fiUwsRfz-LRQXdGAInl68ojdK5Qe0SQWLWM040TKWR5lv982oOcllVrn9FPVmdS9sQC6WXTk-V0cckx_A5e4KU8UmvGSPJTFaIXMhSo9hYh0EYYrpPjLpDwp31QVIXMRjQcLzq9CqK6pv77BjxYheqoS31krEjI6luVslLu77riDlkP3kBC1GBOmzvTCRp4pir4Kr2YaS4g4atINbmkGQd2TF-v0o1vrrexf46ISTxyCBjy5GvgCraPuDq_Xzk7Ld2adKqoDHzVhGBToR1OHNPqbg5IAlU_SLsEFBYGqpLGxkKWpZPqPvgReDrov23OL1-uSL1IXgL91ooNQteXEOSe3dErklXRk_JJaFf2ulloQMnZK3Uzw7B5Ej55HiXQJ6jbiRYLAoqxvPGk-Q1V88viP7oXkP2uv5BksA8Y18Nuu6dsqFJfYXZBVlYqxiDtoTB6mRiCG3tQLHZWn9u_tMVQjch0BJsi7W7mPEN0aPKtSoKZNnZDuw0KgosHKtTFt-dn5zy8ZH6VTgQxwQSMjTHt5jGFGJm8Xh3jm6Da8w2txqj2KyCTFLWFZdzY-zUIWNwIcvuOv2JY2wueQecP9dDHHz2qvdpzj8QkXnlhtsBl82FRya3ToLuLkk7-keaDhYWeYJf4bHHkA3jIamMrEdYYZNeOHmcDWfG1OTFcf4FchODPyCRORzrG06vKGfLOYWmQJRpR9-hOi7RorHxHb8uiBZAgmVO_xJXUCRGA8rw0GAX9gneQ4JMRf_XnRLDuoltP2qlYXAM75N2StCo_XclCk0sMVyTcj_JIwWa9Iu3cOZgTV2e1LfsnFtLCSFMfaVRMKOnO3mENOalbgLUQZFWHnyapgaDL6XGVyVlbswfxgujRD3lG7gavXq46lupfELujbm71j-LoFEOi_6sMQDxa9TqF-AGfvX2JHLK-nr0IO4fB4v5hdQOTTqXB-LKTkTLunTtpAzsvwwLdNNapyyaLufLiJHRT8TudksfqrSpplA4GrDCtPbuKMDLK9j9aOAx_H2GasgVoQrZ8vbMrxKKJtkqh1SxnXESif0YmjX99RGNZfwCI76nw4utsagZsdtThr0EWtgMczC-t-b17c1Ud0Vo3YKkvxet4uXqMai5NHO5kS5NApgFS5BKN0Wwwq5xAapsALsMbcEPXG0dQQnHJ4yIlk5HUwDnUE9nZMxiMDUq9SZY-CNrAkYserYRTP3x_qpmcDvjP47z0&cid=CAASEuRo-21fPm39MdvFFEE68KGlpw, line 1: SyntaxError: invalid escape sequence
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1562346637972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/f7fjn3xx1kv0fbn_lhrxpb100000gn/T/rust_mozprofile.rwGFlqacnhIz"
+1562346640692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562346640693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562346640693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562346644285	Marionette	INFO	Listening on port 49994
+1562346644385	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562337046257%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562346755301	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y2/f7fjn3xx1kv0fbn_lhrxpb100000gn/T/rust_mozprofile.ZXAwpfmnpgp5"
+1562346758011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562346758011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562346758011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562346761176	Marionette	INFO	Listening on port 52358
+1562346761387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s0.2mdn.net/4516568/1531762741623/2B_StarsCampaign_728x90_REVISED/index.html, line 175: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/4516568/1531762741623/2B_StarsCampaign_728x90_REVISED/index.html, line 175: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/4516568/1531762680463/1A_StarsCampaign_728x90_REVISED/index.html, line 174: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/4516568/1531762680463/1A_StarsCampaign_728x90_REVISED/index.html, line 174: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/4516568/1531762680463/1A_StarsCampaign_728x90_REVISED/index.html, line 174: TypeError: studio.Enabler is undefined
+JavaScript error: https://s0.2mdn.net/4516568/1531762680463/1A_StarsCampaign_728x90_REVISED/index.html, line 174: TypeError: studio.Enabler is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562337046257%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=l15MQ5n12U&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=l15MQ5n12U&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=l15MQ5n12U&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=l15MQ5n12U&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=l15MQ5n12U&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=l15MQ5n12U&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=l15MQ5n12U&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=l15MQ5n12U&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=l15MQ5n12U&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=l15MQ5n12U&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=l15MQ5n12U&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=l15MQ5n12U&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=e97NiZU0Yd&t=1 line 28 > scriptElement, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=e97NiZU0Yd&t=1 line 28 > scriptElement, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=e97NiZU0Yd&t=1 line 28 > scriptElement, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=e97NiZU0Yd&t=1 line 28 > scriptElement, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=e97NiZU0Yd&t=1 line 28 > scriptElement, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=e97NiZU0Yd&t=1 line 28 > scriptElement, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=e97NiZU0Yd&t=1 line 28 > scriptElement, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=e97NiZU0Yd&t=1 line 28 > scriptElement, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=e97NiZU0Yd&t=1 line 28 > scriptElement, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=e97NiZU0Yd&t=1 line 28 > scriptElement, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=e97NiZU0Yd&t=1 line 28 > scriptElement, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=e97NiZU0Yd&t=1 line 28 > scriptElement, line 154: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/4516568/1531762741623/2B_StarsCampaign_728x90_REVISED/index.html, line 175: TypeError: studio.Enabler is undefined
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 749: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: https://s0.2mdn.net/4516568/1531762741623/2B_StarsCampaign_728x90_REVISED/index.html, line 175: TypeError: studio.Enabler is undefined
+JavaScript error: https://sharethrough.adnxs.com/getuidp?callback=STRAppNexusCallback, line 1: ReferenceError: STRAppNexusCallback is not defined
+Unable to get IOVARendererSubID
+JavaScript error: javascript: (function(){document.open();document.domain="www.pro-football-reference.com";document.write('%3Chtml%3E%3Chead%3E%3Cscript%20type%3D%22text%2Fjavascript%22%3E(function()%7Btry%7Bwindow.%24dv%3Dwindow.%24dvbs%7C%7Cparent.%24dvbs%2Cwindow.%24dv.dvObjType%3D%22dvbs%22%7Dcatch(e)%7B%7D%7D)()%3B%3C%2Fscript%3E%3C%2Fhead%3E%3Cbody%3E%3Cscript%20type%3D%22text%2Fjavascript%22%3E(function(a)%7Bwindow.%24frmId%3DMath.random().toString(36)%2BMath.random().toString(36)%3Bfor(var%20b%3D%5B%7Bsrc%3A%22dv-match%22%2Cmain%3A6%7D%5D%2Cd%3D0%3Bd%3Cb.length%3Bd%2B%2B)%7Bvar%20f%3Db%5Bd%5D%2Ce%3Df.eval%26%26f.rate%26%26100*Math.random()%3Cf.rate%3Ff.eval%3Af.main%2Cg%3Ddocument.createElement(%22script%22)%3Bg.src%3D%22%2F%2F%22%2Ba%2B%22%2F%22%2Bf.src%2Be%2B%22.js%22%3Bg.async%3D!0%3Bdocument.body.appendChild(g)%7D%7D)(%22cdn.doubleverify.com%22)%3B%3C%2Fscript%3E%3Cscript%20type%3D%22text%2Fjavascript%22%3EsetTimeout(function()%20%7Bdocument.close()%3B%7D%2C%200)%3B%3C%2Fscript%3E%3C%2Fbody%3E%3C%2Fhtml%3E');})(), line 1: SecurityError: The operation is insecure.
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=DSDOEHExRQ&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=DSDOEHExRQ&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=DSDOEHExRQ&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=DSDOEHExRQ&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=DSDOEHExRQ&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=DSDOEHExRQ&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=DSDOEHExRQ&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=DSDOEHExRQ&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=DSDOEHExRQ&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=DSDOEHExRQ&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=DSDOEHExRQ&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/60998839/20190225084047466/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=DSDOEHExRQ&t=1 line 28 > scriptElement, line 157: TypeError: document.querySelector(...) is null
+JavaScript error: https://cdn.flashtalking.com/xre/364/3640212/2216262/js/j-3640212-2216262.js, line 377: NS_ERROR_NOT_INITIALIZED: 
+Unable to get IOVARendererSubID
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600D4,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
