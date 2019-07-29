@@ -2,9 +2,9 @@ import xlrd
 import xlwt 
 from xlwt import Workbook 
 
-import firebase_admin
-import google.cloud
-from firebase_admin import credentials, firestore
+# import firebase_admin
+# import google.cloud
+# from firebase_admin import credentials, firestore
 
 import requests
 # from selenium import webdriver
